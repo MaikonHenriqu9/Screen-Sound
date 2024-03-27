@@ -2,14 +2,5 @@
 bin/
 obj/
 
-# Arquivos de configuração específicos do Visual Studio
-*.suo
-*.user
-*.userprefs
-*.vscode/
-*.vs/
-
-# Arquivos de projeto do Visual Studio
-*.csproj.user
-*.csproj.vspscc
-*.sln.docstates
+.csproj
+.sln
